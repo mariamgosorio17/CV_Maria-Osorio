@@ -1,13 +1,12 @@
 # CV_Example
 # Hoja de Vida
-
-## Nombre Completo
-**Profesión:** _Tu profesión_
+Maria Magdalena Osorio Osorio
+**Profesión:** _Operacion integaral en logistica
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **mariamgosorio17@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/maria-magdalena-osorio-516a86322](https://www.linkedin.com/in/maria-magdalena-osorio-516a86322)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
