@@ -1,28 +1,30 @@
-# CV_Example
+# CV  Magdalena Osorio 
 # Hoja de Vida
 Maria Magdalena Osorio Osorio
-**Profesión:** _Operacion integaral en logistica
-
-## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+**Profesión:** _Integaracion en operaciones logistica
+Estudiante del programa de logistica.
+Inventario y almacenamiento, con experiencia en analisis de operaciones
+y coordinacioón logística en el sector aeronautico.He trabajado en copa airlines durante 11 años gestionando posiciones
+de parqueo y optimizando procesos operativos.Actualmente , estoy en busquedade nuevas oportunidades, para aportar
+mis conocimientos en logistica , almacenamiento en operaciones
 - **mariamgosorio17@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/maria-magdalena-osorio-516a86322](https://www.linkedin.com/in/maria-magdalena-osorio-516a86322)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### ** Manofacturas Eliot_(2024- Actualidad)_
+- Aprendiz Sena
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Copa Airlines_(2009 - 2020)_
+- Analista Flow
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
 - Título obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- *S
+- **
+- **
 
 ---
 
